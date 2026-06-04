@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "divorcedifferently",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8744", "--directory", "C:\\Sites\\divorcedifferently"],
+      "port": 8744
+    }
+  ]
+}
